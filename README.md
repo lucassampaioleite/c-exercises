@@ -26,3 +26,11 @@
 9. [Escreva um programa que declare um inteiro, um double e um char, e ponteiros para inteiro, double, e char. Associe as variáveis aos ponteiros. Modifique os valores de cada variável usando os ponteiros. Imprima os valores das variáveis antes e após a modificação.](ex009.c)
 10. [Escreva um programa que contenha duas variáveis inteiras. Compare os seus endereços e em seguida exiba o maior endereço.](ex010.c)
 11. [Escreva um programa que contenha duas variáveis inteiras. Leia essas variáveis a partir do teclado. Em seguida, compare seus endereços e exiba o conteúdo do maior endereço.](ex011.c)
+
+# Funções
+
+12. [Faça um programa definindo uma função que necessite de três argumentos, e que retorne a soma desses três argumentos. Utilize passagem de parâmetro por referência.](ex012.c)
+13. [Faça um programa com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo.](ex013.c)
+14. [Faça um programa para imprimir de acordo com o formato escada para um n informado pelo usuário. Use uma função que receba um valor n inteiro e imprima até a n-ésima linha.](ex014.c)
+15. [Crie uma função que receba como argumento um vetor e o seu tamanho e retorna a soma de todos os elementos do vetor.](ex015.c)
+16. [Escreva um programa que leia um número decimal (até 3 dígitos) e escreva o seu equivalente em numeração romana.](ex016.c)
