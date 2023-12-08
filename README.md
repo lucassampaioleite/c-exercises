@@ -33,4 +33,10 @@
 13. [Faça um programa com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo.](ex013.c)
 14. [Faça um programa para imprimir de acordo com o formato escada para um n informado pelo usuário. Use uma função que receba um valor n inteiro e imprima até a n-ésima linha.](ex014.c)
 15. [Crie uma função que receba como argumento um vetor e o seu tamanho e retorna a soma de todos os elementos do vetor.](ex015.c)
-16. [Escreva um programa que leia um número decimal (até 3 dígitos) e escreva o seu equivalente em numeração romana.](ex016.c)
+16. [Elabore uma função que receba três notas de um aluno como parâmetro e uma letra. Se a letra for ‘A’, a função deve calcular a média aritmética das notas do aluno; se a letra for ‘P’, deverá calcular a média ponderada, com pesos 5, 3 e 2. Retorne a média calculada para o programa principal.](ex016.c)
+17. [Escreva uma função que dado um número real passado como parâmetro por valor, retorne a parte inteira e a parte fracionária desse número por referência.](ex017.c)
+18. [Escreva um programa que leia um número decimal (até 3 dígitos) e escreva o seu equivalente em numeração romana.](ex018.c)
+
+# Alocação Dinâmica
+
+19. [1. Crie um programa que: a) Aloque dinamicamente um vetor de 5 números inteiros; b) Solicite que o usuário digite os 5 números para compor o espaço alocado; c) Mostre na tela os 5 números armazenados; d) Libere a memória alocada.](ex019.c)
